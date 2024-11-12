@@ -10,7 +10,6 @@
 1. [소개](#소개)
 2. [유용한 URL](#유용한-url)
 3. [파일 설명](#파일-설명)
-4. [기여 방법](#기여-방법)
 
 ---
 
@@ -21,8 +20,8 @@
 | 리소스 이름            | URL                                         | 설명                                     |
 |------------------------|---------------------------------------------|------------------------------------------|
 | 공식 포럼               | [linuxdata.org](https://linuxdata.org) | 저자 및 전문가들과 소통할 수 있습니다.    |
-| Ansible 공식 문서               | [docs.ansible.com](https://docs.ansible.com/ansible/latest/index.html) | 포괄적인 참조 문서입니다.                |
-| AWX 공식 Repo        | [github.com/ansible/awx](https://github.com/ansible/awx) | 새로운 학습자를 위한 단계별 튜토리얼입니다. |
+| Ansible 공식 문서               | [docs.ansible.com](https://docs.ansible.com/ansible/latest/index.html) | Ansible 최신 공식 문서입니다.                |
+| AWX 공식 Repo        | [github.com/ansible/awx](https://github.com/ansible/awx) | AWX 공식 Git Repository 경로입니다. |
 
 ---
 
