@@ -9,7 +9,8 @@
 ## 목차
 1. [소개](#소개)
 2. [유용한 URL](#유용한-url)
-3. [파일 설명](#파일-설명)
+3. [커뮤니티](#커뮤니티)
+4. [파일 설명](#파일-설명)
 
 ---
 
@@ -19,9 +20,17 @@
 
 | 리소스 이름            | URL                                         | 설명                                     |
 |------------------------|---------------------------------------------|------------------------------------------|
-| 공식 포럼               | [linuxdata.org](https://linuxdata.org) | 저자 및 전문가들과 소통할 수 있습니다.    |
 | Ansible 공식 문서               | [docs.ansible.com](https://docs.ansible.com/ansible/latest/index.html) | Ansible 최신 공식 문서입니다.                |
 | AWX 공식 Repo        | [github.com/ansible/awx](https://github.com/ansible/awx) | AWX 공식 Git Repository 경로입니다. |
+
+---
+
+## 커뮤니티
+
+해당 URL의 공식 포럼을 통해 교재와 관련된 질문을 하고, 다른 사용자 및 전문가들과 교류할 수 있습니다. 
+아래 링크를 통해 커뮤니티에 참여해 보세요:
+
+- [LinuxData 공식 포럼](https://linuxdata.org)
 
 ---
 
@@ -34,6 +43,7 @@
 | `/chapter_X/command.md`           | 각 장에 언급된 터미널 명령어 목록이 작성된 파일입니다.   |
 | `/chapter_X/files/`          | 각 장에 언급된 예제 파일을 포함합니다.       |
 | `README.md`           | 이 저장소의 주요 문서 파일입니다.                    |
+| `reference.md`           | 집필 시 참고한 링크의 내용이 포함된 파일입니다.                    |
 
 각 폴더에는 장별 예제 파일이 정리되어 있어 필요한 자료를 쉽게 찾을 수 있습니다.
 
